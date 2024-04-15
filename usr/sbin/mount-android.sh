@@ -165,5 +165,5 @@ cat ${fstab} ${EXTRA_FSTAB} | while read line; do
 done
 
 
-[ FIXME ]
+#FIXME
 mount -o ro /dev/mapper/dynpart-odm-a /android/odm
