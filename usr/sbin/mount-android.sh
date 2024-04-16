@@ -166,4 +166,4 @@ done
 
 
 #FIXME
-mount -o ro /dev/mapper/dynpart-odm-a /android/odm
+mount -o ro /dev/mapper/dynpart-odm_a /android/odm
